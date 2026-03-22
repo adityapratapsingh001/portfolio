@@ -11,14 +11,14 @@ export default function Footer() {
                 </p>
                 <div className="footer-links">
                     <a
-                        href=""
+                        href="https://www.linkedin.com/in/adityaps01"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         LinkedIn
                     </a>
                     <a
-                        href="https://www.linkedin.com/in/adityaps01"
+                        href="https://github.com/adityapratapsingh001"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
