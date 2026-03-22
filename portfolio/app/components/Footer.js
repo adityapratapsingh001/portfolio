@@ -18,13 +18,13 @@ export default function Footer() {
                         LinkedIn
                     </a>
                     <a
-                        href="https://github.com/ayushshukla8920"
+                        href="https://www.linkedin.com/in/adityaps01"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         GitHub
                     </a>
-                    <a href="mailto:ayushshukla8920@gmail.com">Email</a>
+                    <a href="mailto:adityathakur6100@gmail.com.com">Email</a>
                 </div>
             </div>
         </footer>
