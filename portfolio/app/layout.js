@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Ayush Shukla | Full Stack Developer",
+  title: "Aditya | Full Stack Developer",
   description:
     "Portfolio of Ayush Shukla — Full Stack Web Developer specializing in React, Next.js, Node.js, Spring Boot, and AI-driven systems. Building scalable, high-performance web applications.",
   keywords: [
